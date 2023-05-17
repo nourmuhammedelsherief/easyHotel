@@ -1,0 +1,20 @@
+<?php
+return [
+    'login' => 'Login',
+    'dash_admin' => 'Dashboard Admin',
+    'remember_me' => 'Remember Me',
+    'signIn' => 'Sing In',
+    'control_panel' => 'Control Panel',
+    'logout_successfully' => 'Logout Successfully',
+    'wrong_email' => 'Wrong Email',
+    'wrong_password' => 'Wrong Password',
+    'password_changed_successfully' => 'Password Changed Successfully',
+    'token_is_required' => 'Token Is Required',
+    'not_found' => 'Not Found',
+    'deleted' => 'Item Deleted Successfully',
+    'phone_verified_successfully' => 'Correct Activation Code',
+    'error_code' => 'Wrong Activation Code',
+    'hotel_verification_code' => 'Verification Code At Easy Hotel Is : ',
+    'tqnee' => 'Tqnee Organization',
+    'data_changed_successfully' => 'Data Changed Successfully',
+];
